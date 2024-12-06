@@ -1,0 +1,44 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Rider ignored files
+/modules.xml
+/.idea.Moonship.iml
+/contentModel.xml
+/projectSettingsUpdater.xml
+
+# Editor-based HTTP Client requests
+/httpRequests/
+
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+# Build output directories
+/bin/
+//obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Other generated files
+*.dll
+*.exe
+*.pdb
+*.cache
+*.lock.json
+*.nuget
+*.props
+*.targets
+*.g.*
